@@ -20,7 +20,7 @@ export const work = {
   limit: 3,
 };
 
-export const work = {
+export const work2 = {
   eyebrow: 'Selected work',
   title: 'Projects',
   text: 'The work I get paid for and the work I love doing.',
