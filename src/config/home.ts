@@ -6,7 +6,7 @@ export const hero = {
   primary: { label: 'See selected work', href: '/#work' },
   secondary: { label: 'About me', href: '/about/' },
   facts: [
-    { value: '20+', label: 'years in product design' },
+    { value: '20+', label: 'years in digital product design' },
     { value: '100+', label: 'products shipped' },
     { value: '∞', label: 'side quest ideas and counting' },
   ],
