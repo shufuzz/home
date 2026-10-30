@@ -15,20 +15,20 @@ export const siteConfig = {
   socialImage: '/og-image.png',
 
   author: {
-    name: 'Maria Ionescu',
+    name: 'Maria Christina Malevitis',
     role: 'Product Designer',
-    location: 'Lisbon, Portugal',
-    email: 'hello@example.com',
+    location: 'Montreal, Canada',
+    email: 'maria@shufuzz.com',
   },
 
   /** The pill above the homepage headline. Set `enabled: false` to remove it. */
   availability: {
     enabled: true,
-    label: 'Available for new projects from January 2027',
+    label: 'Available for new projects',
   },
 
   /** The button at the end of the header and in the mobile menu. */
-  action: { label: 'Get in touch', href: 'mailto:hello@example.com' },
+  action: { label: 'Get in touch', href: 'mailto:maria@shufuzz.com' },
 
   /** A PDF in `public/`, offered on the resume page. Leave empty to hide the button. */
   resumePdf: '',
@@ -39,10 +39,8 @@ export const siteConfig = {
   },
 
   socials: [
-    { label: 'LinkedIn', href: 'https://www.linkedin.com/' },
-    { label: 'Dribbble', href: 'https://dribbble.com/' },
-    { label: 'Behance', href: 'https://www.behance.net/' },
-    { label: 'Instagram', href: 'https://www.instagram.com/' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/mariachristinamalevitis/' },
+    { label: 'Dribbble', href: 'https://dribbble.com/snooches' },
   ] satisfies NavLink[],
 };
 
