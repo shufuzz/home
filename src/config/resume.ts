@@ -9,10 +9,10 @@ export const resume = {
   highlight: 'systems thinking.',
   text: 'My work centres on product clarity: bringing structure to messy workflows, overloaded interfaces, and growing systems that need to scale without becoming harder to use.',
   snapshot: [
-    { label: 'Location', value: 'Lisbon, Portugal' },
-    { label: 'Focus', value: 'UX and product design' },
+    { label: 'Location', value: 'Montreal, Canada' },
+    { label: 'Focus', value: 'UI and product design' },
     { label: 'Specialties', value: 'Dashboards, workflows, design systems' },
-    { label: 'Languages', value: 'English, Portuguese, Romanian' },
+    { label: 'Languages', value: 'English, Spanish, French' },
   ],
   experience: [
     {
