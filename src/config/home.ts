@@ -15,9 +15,17 @@ export const hero = {
 export const work = {
   eyebrow: 'Selected work',
   title: 'Projects',
+  text: 'A curated selection of projects demonstrating how I bridge the gap between business objectives and user experience across diverse industries.',
+  /** How many featured case studies the homepage shows. */
+  limit: 3,
+};
+
+export const work = {
+  eyebrow: 'Selected work',
+  title: 'Projects',
   text: 'The work I get paid for and the work I can’t help doing.',
   /** How many featured case studies the homepage shows. */
-  limit: 4,
+  limit: 2,
 };
 
 export const services = {
