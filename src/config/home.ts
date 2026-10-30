@@ -23,7 +23,7 @@ export const work = {
 export const work = {
   eyebrow: 'Selected work',
   title: 'Projects',
-  text: 'The work I get paid for and the work I can’t help doing.',
+  text: 'The work I get paid for and the work I love doing.',
   /** How many featured case studies the homepage shows. */
   limit: 2,
 };
