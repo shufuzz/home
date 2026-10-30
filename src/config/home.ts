@@ -74,7 +74,7 @@ export const testimonials = {
 
 export const closing = {
   eyebrow: "Let's work together",
-  title: 'Got something worth building?',
-  highlight: "Let's talk.",
-  text: 'I take on a few product design engagements each quarter, from a focused audit to a full redesign. Tell me what you are working on.',
+  title: 'Let’s build something',
+  highlight: "meaningful.",
+  text: 'I’m based in Montreal and would love to hear from you. Say hi, bonjour, or hola!',
 };
