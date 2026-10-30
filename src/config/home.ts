@@ -8,7 +8,7 @@ export const hero = {
   facts: [
     { value: '20+', label: 'years in product design' },
     { value: '100+', label: 'products shipped' },
-    { value: '∞', label: 'side quests' },
+    { value: '∞', label: 'side <br>quests' },
   ],
 };
 
