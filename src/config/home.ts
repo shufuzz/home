@@ -14,8 +14,8 @@ export const hero = {
 
 export const work = {
   eyebrow: 'Selected work',
-  title: 'Case studies',
-  text: 'A few projects where clarity was the whole job: dense workflows, high stakes, and people who needed the product to get out of the way.',
+  title: 'Projects',
+  text: 'The work I get paid for and the work I can’t help doing.',
   /** How many featured case studies the homepage shows. */
   limit: 4,
 };
