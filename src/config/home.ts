@@ -1,7 +1,7 @@
 export const hero = {
   greeting: "Hi, I'm Maria.",
-  title: 'I design digital products that',
-  highlight: 'are easy to use and built to grow.',
+  title: 'I design things people use, and make things people”',
+  highlight: 'didn’t know they needed.',
   text: 'Ten-plus years helping teams turn messy problems into clear, useful experiences. Corporations, startups, scrappy independents: if there is a user confused somewhere, I want to fix that.',
   primary: { label: 'See selected work', href: '/#work' },
   secondary: { label: 'About me', href: '/about/' },
