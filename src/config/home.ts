@@ -20,14 +20,6 @@ export const work = {
   limit: 3,
 };
 
-export const work2 = {
-  eyebrow: 'Selected work',
-  title: 'Projects',
-  text: 'The work I get paid for and the work I love doing.',
-  /** How many featured case studies the homepage shows. */
-  limit: 2,
-};
-
 export const services = {
   eyebrow: 'What I do',
   title: 'From fuzzy brief to shipped product',
