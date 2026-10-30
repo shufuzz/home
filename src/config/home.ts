@@ -2,12 +2,12 @@ export const hero = {
   greeting: "Hi, I'm Maria.",
   title: 'I make things people use,',
   highlight: 'and things they didn’t know they needed.',
-  text: 'Twenty-plus years helping teams turn messy problems into clear, useful experiences. Corporations, startups, scrappy independents: if there is a user confused somewhere, I want to fix that.',
+  text: 'Product designer in Montreal, happiest when the problem is dense and the interface needs to make it feel simple. Outside client work, I run a sticker shop, and a toll-free rant line.',
   primary: { label: 'See selected work', href: '/#work' },
   secondary: { label: 'About me', href: '/about/' },
   facts: [
-    { value: '10+', label: 'years in product design' },
-    { value: '40+', label: 'products shipped' },
+    { value: '20+', label: 'years in product design' },
+    { value: '100+', label: 'products shipped' },
     { value: '12', label: 'design systems built' },
   ],
 };
